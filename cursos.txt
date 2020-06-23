@@ -1,2 +1,4 @@
 -Git y Github
 -Angular
+-React.js
+-HTML
